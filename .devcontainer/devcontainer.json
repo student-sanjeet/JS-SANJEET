@@ -1,0 +1,6 @@
+{
+	"image": "mcr.microsoft.com/devcontainers/universal:2",
+	"features": {
+		"ghcr./workspaces/JS-SANJEET/.devcontainerio/devcontainers-contrib/features/node-asdf:0": {}
+	}
+}
